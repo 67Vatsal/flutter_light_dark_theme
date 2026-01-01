@@ -32,9 +32,9 @@ dependencies:
   flutter_light_dark_theme: ^1.0.0
 ```
 ## Preview
----
-https://github.com/user-attachments/assets/b8375153-c1ab-4ed2-997e-d9d7ff166abe
----
+
+https://github.com/user-attachments/assets/b7867ce1-9782-4273-8436-308a93f94226
+
 
 ## 🚀 Getting Started
 ```
